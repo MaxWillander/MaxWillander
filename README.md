@@ -1,7 +1,7 @@
 # Olá, me chamo Max Willander!
 
 ## Sobre mim
-Sou Max Willander, tenho 31 anos, sou estudante do Curso Técnico em Desenvolvimento de Sistemas pelo Senac-RN estou em transição de carreira para área Tech. Estudo direcionado a Python, OO, Django, DjangoRestApi e MySQL.
+Sou Max Willander, tenho 31 anos, sou estudante do Curso Técnico em Desenvolvimento de Sistemas pelo Senac-RN estou em transição de carreira para área Tech. Estudo direcionado a Html, Css, JavaScript, React, Python, OO, Django, DjangoRestApi, MySQL e Postgresql.
 
 ## Conecte-se comigo
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/MaxWillander)
